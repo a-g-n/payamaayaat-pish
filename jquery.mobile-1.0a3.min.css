@@ -167,7 +167,7 @@
 	font-weight:normal;
 }
 .ui-btn-up-c {
-	border:1px solid #ccc;
+	border:1px solid #006400;
 	background:#eee;
 	font-weight:normal;
 	color:#444;
@@ -177,7 +177,7 @@
 
 }
 .ui-btn-up-c a.ui-link-inherit {
-	color:#fff
+	color:#FFFFCC
 }
 .ui-btn-hover-c {
 }
@@ -224,6 +224,11 @@
 	color:#2489ce;
 	font-weight:normal;
 }
+
+
+
+
+
 .ui-btn-up-d {
 	border:1px solid #ccc;
 	background:#fff;
@@ -710,7 +715,7 @@ border:0
 }
 .ui-header .ui-title, .ui-footer .ui-title {
 	text-align:center;
-	font-size:16px;
+	font-size:15px;
 	display:block;
 	margin:.6em 90px .8em;
 	padding:0;
@@ -1053,7 +1058,7 @@ to {
 	border-right-width:0
 }
 .ui-header-fixed, .ui-footer-fixed {
-	z-index:1000;
+	z-index:100;
 	-webkit-transform:translateZ(0)
 }
 .ui-footer-duplicate, .ui-page-fullscreen .ui-fixed-inline {
